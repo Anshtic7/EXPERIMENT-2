@@ -9,12 +9,19 @@ A list in Python is a collection of items that are ordered, changeable (mutable)
 Algorithm:-
 
 Start the program.
+
 Create different lists containing various data types.
+
 Display list elements using indexing and slicing.
+
 Add new elements to the list using append() function.
+
 Remove elements from the list using remove() function.
+
 Find the maximum and minimum values in a list using max() and min().
+
 Display the final output.
+
 Stop the program.
 
 Conclusion:-
